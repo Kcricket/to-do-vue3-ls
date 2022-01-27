@@ -2,23 +2,8 @@
 
 ## Project setup
 ```
-npm install
-```
+The project should be avilable at:
+https://to-do-vue3-ls.web.app/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+DEscription:
+This project consists in a ToDo List, with many JS functionalities and localstorage service. I deployed the project with firebase hosting.
